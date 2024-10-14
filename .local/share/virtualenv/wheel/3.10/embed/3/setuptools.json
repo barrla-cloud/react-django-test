@@ -1,0 +1,13 @@
+{
+  "completed": "2024-10-10T05:08:43.228658Z",
+  "periodic": true,
+  "started": "2024-10-10T05:08:36.717713Z",
+  "versions": [
+    {
+      "filename": "setuptools-75.1.0-py3-none-any.whl",
+      "found_date": "2024-10-10T05:08:37.360376Z",
+      "release_date": "2024-09-16T12:53:46.000000Z",
+      "source": "periodic"
+    }
+  ]
+}
